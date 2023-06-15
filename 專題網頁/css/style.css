@@ -1,0 +1,9 @@
+/* CSS Document */
+body{
+	font-family: "Adobe 繁黑體 Std B", "微軟正黑體", "標楷體";
+}
+.myBanner{
+	width: 100%;
+	height: auto;
+	/*設定Banner寬度隨瀏覽器寬度變換，高度則依比例*/
+}
